@@ -1,6 +1,8 @@
 # cs200Disney
 
-I can change this.  It's kind of fun
-* one
-* two
-* three
+Group Members
+* Cameron Hosler
+* Baylen Small
+* Joey Ceresoli
+
+https://www.unesco.org/en/artificial-intelligence/recommendation-ethics/cases
